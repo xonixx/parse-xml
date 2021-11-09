@@ -1,1 +1,1 @@
-The sketch of XML parser I wrote from scratch loooo-o-ong time ago as an experiment.
+The sketch of XML parser I wrote from scratch loooo-o-ong time ago (~2012) as an experiment.
