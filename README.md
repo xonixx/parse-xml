@@ -1,0 +1,1 @@
+The sketch of XML parser I wrote from scratch loooo-o-ong time ago as an experiment.
